@@ -1,8 +1,8 @@
 const order = {
   custmer: "user1",
   address: {
-    city: "Palermo",
-    country: undefined
+    country: "Italy",
+    city: undefined
   }
 };
 
